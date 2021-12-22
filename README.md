@@ -9,7 +9,6 @@ Call me Amon, please.
 - 🤔 I’m looking for help with getting educated to get a job.
 - 💬 Ask me about anything on [Twitter](https://twitter.com/AnriaruDoragon) or [Telegram](https://t.me/anriarudoragon).
 - 😄 Pronouns: he/him [more](https://en.pronouns.page/@anriarudoragon).
-- 🔗 Also, you can reach me by this email: reach@doragon.me
 
 #### What I do or try to do
 - 🧑‍🔬 Studying to work as a Software Engineering.
