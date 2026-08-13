@@ -1,8 +1,7 @@
 <h1 align="center">🐍 Anriaru Doragon 💜</h1>
 
 ### ℹ️ About Me
-Hello, my name is Mykyta. I'm a Sutednt Software Engineer. 
-I live in Ukraine and study at Zhytomyr Polytechnic State University.
+Hello, my name is Mykyta. I have Bachelor's degree in Software Engineering. 
 
 Languages spoken: 🇺🇦 Ukrainian - Native | 🇺🇸/🇬🇧 English - Fluent
 
